@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramesusxd aka Jason Jointer
 - 👀 I’m interested in networking and collaberations
-- 🌱 I’m currently expanding my skill set in java
+- 🌱 I’m currently expanding my skill set with java in software testing
 - 💞️ I’m looking to collaborate on all kinds of java based apps and programs
 - 📫 How to reach me j.jointer@live.com
 
